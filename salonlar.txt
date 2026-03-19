@@ -1,0 +1,4 @@
+salon A,10
+salon B,50
+salon D,75
+salon C,250
